@@ -12,7 +12,7 @@ Updates missing questions automatically in your local config.json.
 **Setup Instructions**
 
 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/MAYANK4482/LinkedIn-Easy-Apply-Bot-Using-Python.git
 cd YOUR_REPO_NAME
 
 2. Install required Python packages
